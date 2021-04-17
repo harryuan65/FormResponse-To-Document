@@ -1,6 +1,6 @@
 # FormResponse-To-Document
 
-Generator Google Doc on each Google Form response!
+使用 Apps Script，當送出表單回應時，就會用該回應資料輸出一個文件！
 
 ## 使用
 
